@@ -1,0 +1,2 @@
+sqlite> SELECT COUNT(*) FROM albums;
+347
