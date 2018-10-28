@@ -1,2 +1,2 @@
-# sqllite
-brouillon à mettre à jour
+1.1. La startup tech du moment
+Voir blog.db
